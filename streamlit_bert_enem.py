@@ -2,16 +2,13 @@ import streamlit as st
 import torch
 import torch.nn as nn
 from transformers import BertTokenizer, BertModel
-import numpy as np
 import warnings
 import logging
-import pandas as pd
 
 logging.disable(logging.WARNING)
 warnings.filterwarnings("ignore")
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 tokenizer = BertTokenizer.from_pretrained('neuralmind/bert-base-portuguese-cased')
-
 
 
 class BERTTimbauRegression(nn.Module):
