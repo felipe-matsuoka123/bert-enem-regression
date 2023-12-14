@@ -1,4 +1,4 @@
-## 🤖 BERT Enem Grader Model 
+# 🤖 BERT Enem Grader Model 
 ### Project Overview📌 
 
 This repository hosts the code and resources for a machine learning project, aiming to develop a transformer-based algorithm for grading essays. Utilizing the [essay-br dataset](https://github.com/rafaelanchieta/essay) for training and the [BERT Timbau model](https://huggingface.co/neuralmind/bert-base-portuguese-cased)
@@ -70,4 +70,4 @@ Rooted Mean Squared Error (RMSE):
 2.  [Fonseca et al. 2018](https://www.researchgate.net/publication/327223514_Automatically_Grading_Brazilian_Student_Essays_13th_International_Conference_PROPOR_2018_Canela_Brazil_September_24-26_2018_Proceedings)
 3.  [Essay-br](https://arxiv.org/pdf/2105.09081)
 
-# bert-enem-regression
+
