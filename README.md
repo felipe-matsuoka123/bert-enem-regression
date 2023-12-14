@@ -1,4 +1,4 @@
-# 🤖 BERT Enem Grader Model 
+# BERT Enem Grader Model 
 ### Project Overview📌 
 
 This repository hosts the code and resources for a machine learning project, aiming to develop a transformer-based algorithm for grading essays. Utilizing the [essay-br dataset](https://github.com/rafaelanchieta/essay) for training and the [BERT Timbau model](https://huggingface.co/neuralmind/bert-base-portuguese-cased)
