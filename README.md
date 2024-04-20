@@ -6,10 +6,10 @@ This repository hosts the code and resources for a machine learning project, aim
 
 
 ### Prerequisites
-- Python 3.8+ 🐍
-- PyTorch 1.8+ 🔥
+- Python 3.8+ 
+- PyTorch 1.8+ 
 - Transformers library 🤗
-- Numpy, Pandas 📊
+- Numpy, Pandas 
 
 ### ENEM 📚
 
